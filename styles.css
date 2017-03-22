@@ -1,0 +1,35 @@
+body {
+  background-color: Gainsboro;
+}
+
+.title {
+  font-size: 50px;
+  color: Black;
+  font-family: Georgia; 
+}
+.wikiLogo{
+  margin: 5px;
+}
+.randomBtn {
+  margin: 1px;
+  background-color: grey;
+  color: white;
+  border-style: none;
+}
+
+.searchBtn {
+  background-color: grey;
+  color: white;
+  border-style: none
+}
+.search-form {
+  margin: 15px;
+}
+
+.search-content {
+  margin: 10px;
+}
+.well {
+  background-color: Whitesmoke;
+  color: black;
+}
